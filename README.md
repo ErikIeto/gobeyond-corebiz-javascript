@@ -40,8 +40,7 @@ Aula ministrada pelo **[@Eugenio do Rosario](https://github.com/MrRosario)**.
 <a name="idmarvel"></a>
 ![marvel](./github/marvel.png) 
 
-<a name="idmarvel2"></a>
-![marvel2](./github/marvel2.png)
+
 
 
 ##   Licença
