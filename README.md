@@ -38,7 +38,7 @@ Aula ministrada pelo **[@Eugenio do Rosario](https://github.com/MrRosario)**.
 ##  Layout
 
 <a name="idmarvel"></a>
-![marvel](./github/marvel.png) 
+![marvel](./github/desktop.png) 
 
 
 
