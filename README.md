@@ -16,10 +16,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="GoBeyond-desktop" src="github/MacBook.png" width="100%">
-</p>
-
 ##  Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
