@@ -28,8 +28,8 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ##  Projeto
 
-1.Criar uma API da Marvel em jQuery. <br>
-2.Criar uma API da Marvel em Java Script puro.
+1.Consumir uma API da Marvel em jQuery. <br>
+2.Consumir uma API da Marvel em Java Script puro.
 
 Projeto responsavél pela <a href="https://www.corebiz.ag/en/" target="_blank">Corebiz</a> desenvolvido no dia 13/01/2021 durante a edição do <a href="https://conteudo.corebiz.ag/gobeyond" target="_blank">GoBeyond</a>.
 Aula ministrada pelo **[@Eugenio do Rosario](https://github.com/MrRosario)**.
